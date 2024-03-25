@@ -1,0 +1,35 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+.limelight-regular {
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D4AF37;
+  font-size: 400%;
+	}
+
+h2 {
+font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D4AF37;
+	}
+
+p, a, .btn {
+	font-family: georgia, serif;
+	}
+
+.bg-primary {
+	background-color: #800000 !important;
+	}
+
+.navbar, .py-5 {
+	background-color: #D4AF37 !important;
+	}
+
